@@ -1,4 +1,4 @@
-  Project Name: Annual Retail Sales Analysis Dashboard using Microsoft Excel      
+   Project Name - Annual Retail Sales Analysis Dashboard using Microsoft Excel      
 
 • Analyzed annual retail sales and order data to evaluate monthly sales trends and business performance.
 
